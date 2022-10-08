@@ -1,0 +1,4 @@
+baseURL = 'http://pturk97.github.io/'
+languageCode = 'en-us'
+title = 'Pauline Turk'
+theme="themes/PaperMod"

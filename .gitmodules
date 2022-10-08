@@ -1,0 +1,4 @@
+[submodule "site_pro/public"]
+	path = site_pro/public
+	url = https://github.com/pturk97/pturk97.github.io.git
+	branch = main
